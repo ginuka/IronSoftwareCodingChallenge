@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IronSoftwareCodingChallenge", "IronSoftwareCodingChallenge\IronSoftwareCodingChallenge.csproj", "{0CAB11BD-F18A-F84B-D719-206226B3196B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IronSoftwareCodingChallenge.Test", "IronSoftwareCodingChallenge.Test\IronSoftwareCodingChallenge.Test.csproj", "{3B649754-3AAE-47E9-2836-51CCD989270F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CAB11BD-F18A-F84B-D719-206226B3196B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CAB11BD-F18A-F84B-D719-206226B3196B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CAB11BD-F18A-F84B-D719-206226B3196B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CAB11BD-F18A-F84B-D719-206226B3196B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B649754-3AAE-47E9-2836-51CCD989270F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B649754-3AAE-47E9-2836-51CCD989270F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B649754-3AAE-47E9-2836-51CCD989270F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B649754-3AAE-47E9-2836-51CCD989270F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26CE04E1-CB91-4E5F-AB1C-C1FD82261017}
+	EndGlobalSection
+EndGlobal

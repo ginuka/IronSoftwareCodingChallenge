@@ -19,7 +19,7 @@ It includes a logic implementation and unit tests to verify functionality.
 
 The program decodes numeric keypad input (like old mobile phones), where:
 
-- Keys `2` to `9` represent letter groups
+- Keys `1` to `9` represent letter groups and some special characters
 - Repeated digits represent the position in the group
 - `0` is assumed to represent a **space**
 

@@ -16,6 +16,7 @@ namespace IronSoftwareCodingChallenge
         /// </summary>
         private static readonly Dictionary<char, string> _keyMap = new Dictionary<char, string>
         {
+            { '1', "&'(" },
             { '2', "ABC" },
             { '3', "DEF" },
             { '4', "GHI" },
